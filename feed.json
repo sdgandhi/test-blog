@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://sdgandhi.github.io/test-blog/this-is-my-first-blog-post-here.html",
-            "url": "https://sdgandhi.github.io/test-blog/this-is-my-first-blog-post-here.html",
+            "id": "https://sdgandhi.github.io/test-blog/this-is-my-first-blog-post-here/",
+            "url": "https://sdgandhi.github.io/test-blog/this-is-my-first-blog-post-here/",
             "title": "This is my first blog post here",
             "summary": " Wow, what an experience. It's a block-based editor. makeAmazingThingHappen()",
             "content_html": "\n  <p>\n    Wow, what an experience. It's a block-based editor.\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>Be the best you can be.</blockquote>\n      <figcaption>sg</figcaption>\n    </figure>\n<pre class=\"line-numbers  language-html\"><code>makeAmazingThingHappen()</code></pre>",
